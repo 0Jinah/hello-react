@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9302db44-ab66-4105-bb81-534b222b15e1" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/Counter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyName.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyNameFunc.js" afterDir="false" />
+    <list default="true" id="9302db44-ab66-4105-bb81-534b222b15e1" name="Default Changelist" comment="Counter.js 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +53,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../phone-book" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -87,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580863331974</updated>
-      <workItem from="1580863340513" duration="2687000" />
+      <workItem from="1580863340513" duration="4616000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1580863496972</created>
@@ -96,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580863496972</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Counter.js 추가">
+      <created>1580867546066</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580867546066</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,13 +119,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="Counter.js 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="Counter.js 추가" />
   </component>
   <component name="WindowStateProjectService">
     <state x="734" y="360" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580863549881">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="734" y="360" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1410/2560.0.1920.1050@0.0.2560.1410" timestamp="1580863549881" />
+    <state x="1060" y="460" key="FileChooserDialogImpl" timestamp="1580869664098">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1060" y="460" key="FileChooserDialogImpl/0.0.2560.1410/2560.0.1920.1050@0.0.2560.1410" timestamp="1580869664098" />
+    <state width="2517" height="404" key="GridCell.Tab.0.bottom" timestamp="1580869665157">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="404" key="GridCell.Tab.0.bottom/0.0.2560.1410/2560.0.1920.1050@0.0.2560.1410" timestamp="1580869665157" />
+    <state width="2517" height="404" key="GridCell.Tab.0.center" timestamp="1580869665157">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="404" key="GridCell.Tab.0.center/0.0.2560.1410/2560.0.1920.1050@0.0.2560.1410" timestamp="1580869665157" />
+    <state width="2517" height="404" key="GridCell.Tab.0.left" timestamp="1580869665157">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="404" key="GridCell.Tab.0.left/0.0.2560.1410/2560.0.1920.1050@0.0.2560.1410" timestamp="1580869665157" />
+    <state width="2517" height="404" key="GridCell.Tab.0.right" timestamp="1580869665157">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="404" key="GridCell.Tab.0.right/0.0.2560.1410/2560.0.1920.1050@0.0.2560.1410" timestamp="1580869665157" />
     <state x="872" y="438" key="Vcs.Push.Dialog.v2" timestamp="1580863512607">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
